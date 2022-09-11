@@ -1,4 +1,4 @@
-# Virtual Internship - Android Application Development Using Kotlin PROJECT 1
+# Virtual Internship - Android Application Development Using Kotlin MAIN PROJECT 1
 
 ## An Android Application To Search Nearby Business Using Kotlin
 
