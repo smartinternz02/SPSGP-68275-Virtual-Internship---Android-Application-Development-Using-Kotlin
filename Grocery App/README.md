@@ -1,4 +1,4 @@
-# Virtual Internship - Android Application Development Using Kotlin PROJECT 2
+# Virtual Internship - Android Application Development Using Kotlin MAIN PROJECT 2
 
 ## Grocery Android Application
 
