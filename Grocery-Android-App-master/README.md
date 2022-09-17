@@ -1,4 +1,4 @@
-## **Projects Name -** 
+## **Project Name -** 
 
 Grocery App Using Kotlin
 
