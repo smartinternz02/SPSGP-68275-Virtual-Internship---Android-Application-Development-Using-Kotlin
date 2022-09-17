@@ -3,7 +3,7 @@ Virtual Internship - Android Application Development Using Kotlin
 
 ## Name: Bollepalli Sri Sai Hemanth
 
-⏩ [Main Project 1](https://github.com/smartinternz02/SPSGP-68275-Virtual-Internship---Android-Application-Development-Using-Kotlin/tree/main/Nearby-Places-Finder)  And [Main Project 2](https://github.com/smartinternz02/SPSGP-68275-Virtual-Internship---Android-Application-Development-Using-Kotlin/tree/main/Grocery%20App)
+⏩ [Main Project 1](https://github.com/smartinternz02/SPSGP-68275-Virtual-Internship---Android-Application-Development-Using-Kotlin/tree/main/Nearby-Places-Finder)
 
 ⏩ [Google Developer Profile](https://g.dev/sshemanth)
 
