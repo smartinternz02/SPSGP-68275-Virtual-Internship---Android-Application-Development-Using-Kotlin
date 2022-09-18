@@ -25,10 +25,8 @@ Grocery App Using Kotlin
 <img width="960" alt="Screenshot 2022-09-13 114224" src="https://user-images.githubusercontent.com/83489094/189833241-46a4de49-ec8f-40b9-85e1-d426aa034756.png">
 
 
-### **Demo Video -**
-
 <h1>
-<a href="https://drive.google.com/file/d/1-UUreyWh2BHbssqGTKYC3esc0xl43d7B/view">Demo Video</a></h1>
+<a href="https://drive.google.com/file/d/187oqm8H2chreagMQmrww86B2nbfcmck8/view?usp=sharing">Demo Video</a></h1>
 
 
 ### **Output for Grocery App -**
